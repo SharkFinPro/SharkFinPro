@@ -41,6 +41,6 @@ CS graduate from **Oregon State University** (B.S. Computer Science · Minor in 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharkFinPro&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=SharkFinPro&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github)
 
 </div>
